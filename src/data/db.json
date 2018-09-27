@@ -1,0 +1,20 @@
+{
+
+  "games": [{
+
+      "id": 45944,
+      "week": 1,
+      "startTime": "2018-09-07T00:20:00.000Z",
+      "endedTime": 33,
+      "teams": [{"name": "dolphins", "status": "visitor"}]
+
+  }, {
+
+      "id": 45952,
+      "week": 1,
+      "startTime": "2018-09-09T17:00:00.000Z",
+      "endedTime": 32,
+      "teams": [{"name": "seahawks", "status": "visitor"}]
+
+  }]
+}
