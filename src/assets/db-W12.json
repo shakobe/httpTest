@@ -1,0 +1,90 @@
+{
+
+  "picks": [{
+
+    "game": 1,
+    "spread": 4,
+    "winner": "away"
+
+  }, {
+
+    "game": 2,
+    "spread": -9,
+    "winner": "away"
+
+  }, {
+
+    "game": 3,
+    "spread": -13,
+    "winner": "away"
+
+  }, {
+
+    "game": 4,
+    "spread": -3,
+    "winner": "away"
+
+  }, {
+
+    "game": 5,
+    "spread": 3,
+    "winner": "home"
+  }, {
+
+    "game": 6,
+    "spread": -12,
+    "winner": "away"
+  }, {
+
+    "game": 7,
+    "spread": 7,
+    "winner": "home"
+  }, {
+
+    "game": 8,
+    "spread": 10.5,
+    "winner": "away"
+
+  }, {
+
+    "game": 9,
+    "spread": 3,
+    "winner": "away"
+
+  }, {
+
+    "game": 10,
+    "spread": -3,
+    "winner": "away"
+
+  }, {
+
+    "game": 11,
+    "spread": -13,
+    "winner": "away"
+
+  }, {
+
+    "game": 12,
+    "spread": 10.5,
+    "winner": "home"
+  }, {
+
+    "game": 13,
+    "spread": 3,
+    "winner": "away"
+
+  }, {
+
+    "game": 14,
+    "spread": -3,
+    "winner": "away"
+
+  }, {
+
+    "game": 15,
+    "spread": 0,
+    "winner": "home"
+
+  }]
+}

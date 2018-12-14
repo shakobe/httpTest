@@ -1,0 +1,32 @@
+48 - Buffalo
+49 - Miami
+50 - New England
+51 - NY Jets
+52 - Dallas
+53 - NY Giants
+54 - Philadelphia
+55 - Washington
+56 - Baltimore
+57 - Cincinnati
+58 - Cleveland
+59 - Pittsburgh
+60 - Chicago
+61 - Detroit
+62 - Green Bay
+63 - Minnesota
+64 - Houston
+65 - Indianapolis
+66 - Jacksonville
+67 - Tennessee
+68 - Atlanta
+69 - Carolina
+70 - New Orleans
+71 - Tampa Bay
+72 - Denver
+73 - Kansas City
+74 - Oakland
+75 - LA Chargers
+76 - Arizona
+77 - LA Rams
+78 - San Francisco
+79 - Seattle
