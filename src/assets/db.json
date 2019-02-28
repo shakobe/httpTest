@@ -11,7 +11,59 @@
   }, {
 
     "pick": 58,
-    "spread": 3.5
+    "spread": 3
+  }, {
+
+    "pick": 60,
+    "spread": -5.5
+  }, {
+
+    "pick": 76,
+    "spread": 10
+  }, {
+
+    "pick": 48,
+    "spread": -2.5
+  }, {
+
+    "pick": 56,
+    "spread": -9.5
+  }, {
+
+    "pick": 74,
+    "spread": 3
+  }, {
+
+    "pick": 53,
+    "spread": -2.5
+  }, {
+
+    "pick": 49,
+    "spread": 7.5
+  }, {
+
+    "pick": 66,
+    "spread": -7.5
+  }, {
+
+    "pick": 52,
+    "spread": 2.5
+  }, {
+
+    "pick": 79,
+    "spread": -7
+  }, {
+
+    "pick": 59,
+    "spread": 2.5
+  }, {
+
+    "pick": 77,
+    "spread": -10.5
+  }, {
+
+    "pick": 70,
+    "spread": -7
   }
 
 ]
